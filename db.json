@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Sitar",
+        "type": "String",
+        "famousmusicians": ["Ravi Shankar", "George Harrison"]
+    },
+    {
+        "id": 2,
+        "name": "Tabla",
+        "type": "Percussion",
+        "famousmusicians": ["Ustad", "Zakir Hussain"]
+    },
+    {
+        "id": 3,
+        "name": "Sarod",
+        "type": "String",
+        "famousmusicians": ["Ali Akhbar Khan"]
+    }
+]
