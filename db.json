@@ -4,8 +4,8 @@
         "name": "Sitar",
         "type": "String",
         "famousmusicians": [
-            {"Ravi Shankar"}, 
-            {"George Harrison"}
+            "Ravi Shankar", 
+            "George Harrison"
         ]
     },
     {
@@ -13,8 +13,8 @@
         "name": "Tabla",
         "type": "Percussion",
         "famousmusicians": [
-            {"Ustad Alla Rakha"}, 
-            {"Zakir Hussain"}
+            "Ustad Alla Rakha", 
+            "Zakir Hussain"
         ]
     },
     {
@@ -22,7 +22,7 @@
         "name": "Sarod",
         "type": "String",
         "famousmusicians": [
-            {"Ali Akhbar Khan"}
+            "Ali Akhbar Khan"
         ]
     }
 ]
